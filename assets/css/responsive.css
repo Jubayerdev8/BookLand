@@ -1,0 +1,265 @@
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .container {
+        width: 750px;
+    }
+
+    .logo h3 {
+        font-size: 22px;
+    }
+
+    .logo-menu ul li {
+        font-size: 11px;
+    }
+
+    .left-box {
+        height: 336px;
+        margin-top: -15px;
+    }
+
+    .banner {
+        height: 400px;
+    }
+
+    .title {
+        font-size: 28px;
+    }
+
+    .content-ro img {
+        height: 300px;
+    }
+
+    .content-overlay h4 {
+        font-size: 10px;
+    }
+
+    .content-overlay h3 {
+        font-size: 20px;
+    }
+
+    .content-overlay h2 {
+        font-size: 16px;
+    }
+
+    .content-overlay p {
+        font-size: 13px;
+        line-height: 20px;
+    }
+
+    .cat-card img {
+        width: 110px;
+    }
+
+    .cat-card h4 {
+        font-size: 11px;
+    }
+
+    .cat-card h3 {
+        font-size: 15px;
+    }
+
+    .cat-button a {
+        font-size: 15px;
+    }
+
+    .news-part {
+        flex-direction: column;
+    }
+
+    .b-count {
+        gap: 20px;
+    }
+
+    .feature {
+        flex-direction: column;
+    }
+
+    .right-fea img {
+        margin-left: 100px;
+    }
+
+    .reader {
+        flex-wrap: wrap;
+    }
+
+    .reader-card img {
+        width: 85px;
+        margin-left: 0;
+    }
+
+    .reader-card2 img {
+        width: 85px;
+        margin-left: 0;
+    }
+
+    .reader-card3 img {
+        width: 85px;
+        margin-left: 0;
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .container {
+        width: 350px;
+    }
+
+    .fa-solid.fa-book {
+        font-size: 22px;
+    }
+
+    .logo h3 {
+        font-size: 22px;
+    }
+
+    .logo-hader {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .logo-menu ul li {
+        font-size: 14px;
+    }
+
+    .logo {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+
+    .logo-menu ul {
+        gap: 14px;
+    }
+
+    .logo-icon {
+        margin-top: 0;
+        gap: 15px;
+    }
+
+    .logo-icon i {
+        font-size: 20px;
+    }
+
+    .title {
+        font-size: 20px;
+    }
+
+    .desc {
+        font-size: 12px;
+    }
+
+    .left-box {
+        height: 242px;
+        width: 290px;
+        margin-top: -20px;
+    }
+
+    .banner {
+        height: 315px;
+    }
+
+    .content-container {
+        flex-direction: column;
+    }
+
+    .content img {
+        margin-left: -18px;
+    }
+
+    .content-overlay {
+        top: 6%;
+    }
+
+    .content-ro img {
+        height: 283px;
+    }
+
+    .content-button {
+        padding: 7px 10px;
+        margin-top: 14px;
+    }
+
+    .content-button a {
+        font-size: 12px;
+    }
+
+    .feature {
+        flex-direction: column;
+        margin-top: -260px;
+    }
+
+    .book-de h4 {
+        font-size: 26px;
+        margin-top: 14px;
+    }
+
+    .book-container {
+        margin-top: -60px;
+    }
+
+    .btn-bd {
+        padding: 15px 26px;
+        font-size: 13px;
+    }
+
+    .right-fea img {
+        width: 305px;
+    }
+
+    .catagory {
+        flex-direction: column;
+        margin-left: -67px;
+    }
+
+    .reader {
+        flex-direction: column;
+    }
+
+    .news-info h4 {
+        font-size: 27px;
+        margin-top: 31px;
+    }
+
+    .news-btn {
+        padding: 16px 10px;
+        font-size: 11px;
+    }
+
+    .news-part {
+        flex-direction: column;
+    }
+
+    .right-had {
+        gap: 12px;
+        width: 300px;
+    }
+
+    .mini-had p {
+        font-size: 13px;
+        max-width: 229px;
+    }
+
+    .mini-had h3 {
+        font-size: 17px;
+        font-weight: 700;
+    }
+
+    .b-count {
+        margin-top: -30px;
+        gap: 5px;
+        flex-direction: column;
+    }
+
+    .footer-container {
+        flex-direction: column;
+    }
+
+    .footer-middile h4 {
+        margin-top: 17px;
+    }
+
+    .footer-right h2 {
+        font-size: 17px;
+    }
+
+    .news-left-image img {
+        margin-left: -18px;
+    }
+}
